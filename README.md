@@ -1,6 +1,6 @@
 # designs
 
-A new Flutter project.
+Aplicación flutter con algunos ejemplos de diseños de vistas usando efecto blur
 
 ## Getting Started
 
